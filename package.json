@@ -1,0 +1,31 @@
+{
+    "name": "react-native-zoomable-image",
+    "version": "0.1.0",
+    "description": "A simple Zoomable Image component for React Native",
+    "main": "src/ZoomableImage",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Alanaktion/react-native-zoomable-image.git"
+    },
+    "keywords": [
+        "react-native",
+        "image",
+        "zoom",
+        "pinch",
+        "component"
+    ],
+    "peerDependencies": {
+        "react": "*",
+        "react-native": "*",
+        "prop-types": "*"
+    },
+    "dependencies": {
+        "react-native-gesture-handler": "^1.0.0"
+    },
+    "author": "Alan Hardman <alan@phpizza.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Alanaktion/react-native-zoomable-image/issues"
+    },
+    "homepage": "https://github.com/Alanaktion/react-native-zoomable-image#readme"
+}
