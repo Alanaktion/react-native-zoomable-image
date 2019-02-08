@@ -1,11 +1,11 @@
 {
-    "name": "react-native-zoomable-image",
+    "name": "react-native-zoomableimage",
     "version": "0.1.0",
     "description": "A simple Zoomable Image component for React Native",
     "main": "src/ZoomableImage",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Alanaktion/react-native-zoomable-image.git"
+        "url": "git+https://github.com/Alanaktion/react-native-zoomableimage.git"
     },
     "keywords": [
         "react-native",
@@ -25,7 +25,7 @@
     "author": "Alan Hardman <alan@phpizza.com>",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/Alanaktion/react-native-zoomable-image/issues"
+        "url": "https://github.com/Alanaktion/react-native-zoomableimage/issues"
     },
-    "homepage": "https://github.com/Alanaktion/react-native-zoomable-image#readme"
+    "homepage": "https://github.com/Alanaktion/react-native-zoomableimage#readme"
 }
